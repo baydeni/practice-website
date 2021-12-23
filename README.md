@@ -1,3 +1,3 @@
 # practice-website
 
-practicing using HTML, CSS/Sass, and a little JS to make this website!
+practicing using HTML and CSS/Sass, and a little JS to make a website
